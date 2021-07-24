@@ -4,7 +4,7 @@ import { resolve } from 'path';
 import { Buffer } from 'buffer';
 import mocha from 'mocha';
 import zlib, { createDeflateRaw, deflateRaw, constants } from 'zlib';
-import { inflate } from '../dist/index.js';
+import inflate from '../dist/index.module.js';
 
 const uncompressed = readFileSync(resolve() + '/test/lorem.txt');
 

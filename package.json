@@ -36,13 +36,13 @@
   },
   "homepage": "https://github.com/illumincrotty/tiny-inflate",
   "devDependencies": {
-    "@types/mocha": "^8.2.3",
-    "@types/node": "^16.4.0",
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^16.4.2",
     "@typescript-eslint/eslint-plugin": "^4.28.4",
     "@typescript-eslint/parser": "^4.28.4",
     "eslint": "^7.31.0",
     "microbundle": "^0.13.3",
-    "mocha": "8",
+    "mocha": "^8.4.0",
     "ts-mocha": "^8.0.0",
     "typescript": "^4.3.5"
   }

@@ -68,8 +68,7 @@ And use it like you would any other package from UNPKG
 
 ## Usage
 
-Here's the great part. Unsurprisingly, the dead simple pubsub is really easy to use!
-Thanks to [microbundle](https://github.com/developit/microbundle), this package supports CJS, UMD, and ESM formats.
+Here's the great part: thanks to [microbundle](https://github.com/developit/microbundle), this package supports CJS, UMD, and ESM formats.
 That means that wherever and however you use this package — in browser or node, with import or require — you *should* be set, no configuration required.
 
 ## Example
